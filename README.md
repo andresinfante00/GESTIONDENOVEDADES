@@ -1,2 +1,2 @@
-# GESTI-N-DE-NOVEDADES
+# GESTION-DE-NOVEDADES
 Reporte de Pendientes por Gestionar
